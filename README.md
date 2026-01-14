@@ -11,3 +11,13 @@ This project uses Layered Architecture (3-Tier)
 npm install
 node server.js
 
+## Test
+
+## GET
+![GET Products Result ](images/test_get.png)
+
+## POST
+![POSTProducts Result](images/test_post.png)
+
+## Result
+![POSTProducts Result](images/test_result.png)
